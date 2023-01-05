@@ -36,7 +36,7 @@ a:hover{
   color: #EAF6F6;
 }
 hr{
-  border: dotted #EAF6F6 6px;
+  border: dotted #59CBE8 6px;
   border-bottom: none;
   width: 5%;
   margin: 60px auto;
@@ -105,7 +105,7 @@ hr{
   color:  #40514E;
   font-family: 'Merriweather', serif;
   font-weight: bolder;
-  font-style: italic;
+  font-style:italic;
 }
 
 .btn {
